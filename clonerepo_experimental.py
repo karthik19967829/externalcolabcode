@@ -115,7 +115,7 @@ def run_script():
 
     def clone_and_copy_repo(repo_path):
         # New repository link
-        new_repo_link = "https://github.com/alexlnkp/Mangio-RVC-Tweaks/"
+        new_repo_link = "https://github.com/karthik19967829/Mangio-RVC-Tweaks/"
         # Temporary path to clone the repository
         temp_repo_path = "/content/temp_Mangio-RVC-Fork"
         # New folder name
